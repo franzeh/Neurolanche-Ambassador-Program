@@ -338,9 +338,8 @@ Looking ahead, Neurolanche envisions a transition to a reward system primarily d
 
 -	There is a total of 100 points per month.
 -	The total amount of points awarded to departments are 80 (80/100). 
--	The total amount of points awarded to supplementary tasks are 20 (20/100). 
--	You can choose the point-weight of each department. For example, if you choose Marketing and Content, Marketing can be worth 90% and Content can be worth 10% of the total available 80 points for departments.  
--	The point-weight of supplementary tasks can vary per month, depending on Phala’s needs. 
+-	The total amount of points awarded to supplementary tasks are 20 (30/100). 
+-	The point-weight of supplementary tasks can vary per month, depending on Neurolanche's needs. 
 
 3. Rewards:
 -	You need to achieve at least 40% of the total points (40/100) to quality to receive rewards.
@@ -365,8 +364,8 @@ All ambassadors must select 2/4 of the following departments.
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
 | AM | Neurolanche's regionalized account management in your native language. Translation and replication of content posted on the main account @neurolanche. | 20+ per month  | Reach & engagement | 25 |
 | SM | Promote Neurolanche across relevant social media platforms. At least 3 original contents about Neurolanche in in our main account | 12 per month  | Reach & engagement | 25 |
-| CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  10 |
-| MT | Participate in weekly Ambassador Meetings.| Weekly | Consistency |  10 |
+| CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  15 |
+| MT | Participate in weekly Ambassador Meetings.| Weekly | Consistency |  15 |
 
 ## Supplementary Task (Choose up to 2 tasks/month)
 
