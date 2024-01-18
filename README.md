@@ -330,15 +330,13 @@ Looking ahead, Neurolanche envisions a transition to a reward system primarily d
 -	Both mandatory and supplementary tasks are available.
 -	ALL mandatory tasks must be completed monthly.
 -	Supplementary tasks are optional but encouraged.
--	Mandatory tasks will vary, depending on your chosen departments.
--    You must choose two departments: marketing, community or content.
 -	A maximum of 2 different supplementary tasks can be completed, per month.
 
 2. Points:
 
 -	There is a total of 100 points per month.
--	The total amount of points awarded to departments are 80 (80/100). 
--	The total amount of points awarded to supplementary tasks are 20 (30/100). 
+-	The total amount of points awarded to mandatory tasks are 80 (80/100). 
+-	The total amount of points awarded to supplementary tasks are 30 (30/100). 
 -	The point-weight of supplementary tasks can vary per month, depending on Neurolanche's needs. 
 
 3. Rewards:
@@ -356,15 +354,13 @@ Looking ahead, Neurolanche envisions a transition to a reward system primarily d
 5. Scores:
 -	Participation is MANDATORY. Failure to achieve at least 40% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
 
-## Departments
-
-All ambassadors must select 2/4 of the following departments.
+## TASKS
 
 | ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
 | AM | Neurolanche's regionalized account management in your native language. Translation and replication of content posted on the main account @neurolanche. | 20+ per month  | Reach & engagement | 25 |
 | SM | Promote Neurolanche across relevant social media platforms. At least 3 original contents about Neurolanche in in our main account | 12 per month  | Reach & engagement | 25 |
-| CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  15 |
+| CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this tasks are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  15 |
 | WM | Participate in weekly Ambassador Meetings.| Weekly | Consistency |  15 |
 
 ## Supplementary Task (Choose up to 2 tasks/month)
@@ -390,9 +386,8 @@ Title: June 2023 Contribution - {your #discord ID}
 - Telegram Username: Y
 - Twitter URL: X
 - Astar Wallet Address: Y
-- Departments: [1]/[2]
  
-2. Departments:
+2. Taks:
  
 · AM:
 - List all completed tasks.
@@ -426,8 +421,8 @@ Title: June 2023 Contribution - {your #discord ID}
  
 4. Suggested scores: 
  
-- [Department 1] X/40
-- [Department 2] X/40
+- [Task 1 ] X/40
+- [Task 2] X/40
  
 - [Supplementary task 1] X/10
 - [Supplementary task 2] X/10
