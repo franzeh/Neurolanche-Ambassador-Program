@@ -1,7 +1,5 @@
 # Neurolanche-Ambassador-Program
 
-Neurolanche Ambassador Program
-
 1 - Ambassador Rules and Guidelines
 1.1 - Familiarize Yourself with Neurolanche's Tone and Voice:
 As an ambassador and moderator, you are the voice of Neurolanche, and as such, it is imperative to embody the brand, voice, culture, and tone of Neurolanche. You serve as an extension of the team and must represent our core values. These documents will be provided for your review.
@@ -48,9 +46,6 @@ Set a positive example for other members by adhering to the rules and guidelines
 1.22 - Seek Feedback:
 Encourage feedback from the community to improve moderation practices.
 Keep in mind that specific rules and guidelines may vary based on the server's unique culture and objectives. Always be adaptable and willing to learn while striving to create a safe and enjoyable Discord community.
-
-
-
 
 
 2 - How to Become a Neurolanche Ambassador
