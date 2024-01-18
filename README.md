@@ -331,7 +331,7 @@ Looking ahead, Neurolanche envisions a transition to a reward system primarily d
 -	ALL mandatory tasks must be completed monthly.
 -	Supplementary tasks are optional but encouraged.
 -	Mandatory tasks will vary, depending on your chosen departments.
-- You must choose two departments: marketing, community or content.
+-    You must choose two departments: marketing, community or content.
 -	A maximum of 2 different supplementary tasks can be completed, per month.
 
 2. Points:
