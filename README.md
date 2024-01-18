@@ -268,7 +268,7 @@ The Neurolanche Head Ambassador at the highest level serves as the linchpin conn
 
 For this specific moment, with the upcoming launch in the next 2 months of important parts of our products like Firolauss and the token of our ecosystem $NEROX, we will need a task force from our ambassadors.
 
-Create At Least 3 Original Weekly Contents About Neurolanche:
+Create Original Weekly Contents About Neurolanche:
 
 Ambassadors are expected to produce a minimum of three original pieces of content per week on their official profiles. This can include articles, posts, videos, or any other creative content related to Neurolanche.
 
@@ -363,21 +363,20 @@ All ambassadors must select 2/4 of the following departments.
 
 | ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
-| MK | Marketing: co-create and execute marketing strategies and host online or offline promotional events. The goals of this department are to increase engagement, community growth, product usage and brand awareness. | Daily | Quality & consistency |  VAR |
-| CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  VAR |
-| CC | Content: supply other departments with a variety of content which excites, educates, converts, or reassures community members. The goal of this department is to  facilitate deeper conversations and connections within and outside of our community. | Daily | Quality & consistency |  VAR |
+| AM | Neurolanche's regionalized account management in your native language. Translation and replication of content posted on the main account @neurolanche. | 20+ per month  | Reach & engagement | 25 |
+| SM | Promote Neurolanche across relevant social media platforms. At least 3 original contents about Neurolanche in in our main account | 12 per month  | Reach & engagement | 25 |
+| CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  10 |
+| MT | Participate in weekly Ambassador Meetings.| Weekly | Consistency |  10 |
 
 ## Supplementary Task (Choose up to 2 tasks/month)
 
 | ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
-| PM | The promoter: promote Neurolanche across relevant social media platforms. | 5 per month  | Reach & engagement | 10 |
-| HD | Help Desk: assist our community by answering their questions and sharing helpful resources. | 5 per month  | Speed & effectiveness  | 10 |
-| QC | Quality control: reduce/eliminate inaccurate/misleading content whilst educating our community/amb team. | 5 per month  | Speed & effectiveness  | 10 |
-| CC  | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Neurolanche per week. Content has to be ORIGINAL.  | 2 per month  | Quality & Reach  | 10 |
-| EM  | The Event Manager: Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session.  | 1 per month  | Quality & Engagement  | 10 |
-| BD  | The Business Developer: Reach out to projects to build on Neurolanchek. You have to be able to pitch about Neurolanche before handing over the project to Leo or Defiguy.  | 1 per month  | Quality & Success  | 10 |
-| ART  | The Artist: This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use.  | 1 per month  | Quality  | 10 |
+| EC | Create and share educational content about Neurolanche, including tutorials, guides, and explanations about the ecosystem's features. | 5 per month  | Speed & effectiveness  | 10 |
+| CC | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Neurolanche per week. Content has to be ORIGINAL.  | 2 per month  | Quality & Reach  | 10 |
+| EM  | The Event Manager: Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session.  | 1 per month  | Quality & Engagement  | 15 |
+| BD  | The Business Developer: Reach out to projects to build on Neurolanche. You have to be able to pitch about Neurolanche before handing over the project to Leo or Defiguy.  | 1 per month  | Quality & Success  | 20 |
+| ART | The Artist: This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use.  | 1 per month  | Quality  | 10 |
 
 > For any other types of contribution that is not listed above, please reach out to the team.
 #### Please submit your contribution by creating an issue on this repository latest by the 5th day of the following month. Any late submission will not be accepted.
