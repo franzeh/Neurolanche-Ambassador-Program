@@ -1,50 +1,73 @@
 # Neurolanche-Ambassador-Program
 
 1 - Ambassador Rules and Guidelines
+
 1.1 - Familiarize Yourself with Neurolanche's Tone and Voice:
 As an ambassador and moderator, you are the voice of Neurolanche, and as such, it is imperative to embody the brand, voice, culture, and tone of Neurolanche. You serve as an extension of the team and must represent our core values. These documents will be provided for your review.
+
 1.2 - Familiarize Yourself with Server Rules:
 Before undertaking any moderating activities, thoroughly understand the Neurolanche server rules and guidelines.
+
 1.3 - Be Objective and Impartial:
 Treat all members equally, regardless of their status or history.
+
 1.4 - Act Professionally:
 Maintain a respectful and professional demeanor at all times when dealing with members.
+
 1.5 - Enforce Rules Consistently:
 Apply rules consistently and fairly, without bias or favoritism.
+
 1.6 - Prioritize Safety:
 Make the safety and well-being of members the top priority.
+
 1.7 - Avoid Conflicts of Interest:
 Refrain from moderating discussions involving friends, family, or personal connections to maintain objectivity.
+
 1.8 - Communicate Clearly:
 When taking action, clearly explain the reason behind it to the member.
+
 1.9 - Warn Before Punishing:
 Give members a warning or an opportunity to correct their behavior before resorting to punitive actions.
+
 1.10 - Use Private Messaging for Discussions:
 Address issues privately through DMs or private channels when possible.
+
 1.11 - Document Incidents:
 Maintain records of rule violations, actions taken, and member interactions for future reference.
+
 1.12 - Collaborate with Fellow Moderators:
 Work closely with other moderators to ensure consistency in enforcement and discuss complex cases.
+
 1.13 - Respect Privacy:
 Do not share or discuss private information about members.
+
 1.14 - Encourage Positive Behavior:
 Promote a friendly and welcoming atmosphere by engaging in positive interactions.
+
 1.15 - Report Serious Violations:
 Report any serious violations or illegal activities to server administrators or platform authorities.
+
 1.16 - Stay Informed:
 Stay updated on Discord's policies and guidelines to ensure you're enforcing the rules correctly.
+
 1.17 - Monitor Chat and Content:
 Keep an eye on text, images, videos, and links shared to ensure they comply with server rules.
+
 1.18 - Use Appropriate Punishments:
 Choose suitable sanctions such as warnings, mutes, kicks, or bans depending on the severity of the violation.
+
 1.19 - Offer Appeals Process:
 Allow members to appeal moderative actions if they feel unfairly treated. We will provide an appeal process for you to follow.
+
 1.20 - Be Active and Responsive:
 Regularly monitor the server and respond promptly to rule violations and member inquiries.
+
 1.21 - Lead by Example:
 Set a positive example for other members by adhering to the rules and guidelines yourself.
+
 1.22 - Seek Feedback:
 Encourage feedback from the community to improve moderation practices.
+
 Keep in mind that specific rules and guidelines may vary based on the server's unique culture and objectives. Always be adaptable and willing to learn while striving to create a safe and enjoyable Discord community.
 
 
