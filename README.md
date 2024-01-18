@@ -326,7 +326,7 @@ Reward system:
 - Monthly, consistently, 4000 ASTR + 1000 NEROX tokens for each head Ambassador.
 - A bonus of 50,000 ASTR (approximately $10,000) for ambassadors who successfully complete all tasks after fundraising and ICO.
 - During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code.
-- Bonus for each milestone with the launch of DApp Staking v3. For example:
+- Bonus for each milestone with the launch of DApp Staking v3 (TBA). For example:
     
     When we reach 50 million ASTR: x ASTR
     When we reach 75 million ASTR: x ASTR
