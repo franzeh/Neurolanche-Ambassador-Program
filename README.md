@@ -324,7 +324,7 @@ Head Ambassadors will operate within a total max budget of 4000 ASTR monthly, ac
 
 Looking ahead, Neurolanche envisions a transition to a reward system primarily denominated in $NEROX tokens. As the project progresses and the $NEROX ecosystem gains prominence, our goal is to align ambassador rewards more closely with the native token. This strategic shift not only fosters a more cohesive and interconnected Neurolanche community but also ensures that ambassadors directly benefit from the success and growth of the $NEROX token. By introducing $NEROX as the primary reward mechanism in the future, we aim to create a symbiotic relationship between ambassadors and the Neurolanche ecosystem, solidifying their role as integral contributors to the project's flourishing journey. 
 
-# How does the ambassador programme work?
+# How does the ambassador program work?
 
 1.	Tasks:
 -	Both mandatory and supplementary tasks are available.
@@ -365,7 +365,7 @@ All ambassadors must select 2/4 of the following departments.
 | AM | Neurolanche's regionalized account management in your native language. Translation and replication of content posted on the main account @neurolanche. | 20+ per month  | Reach & engagement | 25 |
 | SM | Promote Neurolanche across relevant social media platforms. At least 3 original contents about Neurolanche in in our main account | 12 per month  | Reach & engagement | 25 |
 | CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  15 |
-| MT | Participate in weekly Ambassador Meetings.| Weekly | Consistency |  15 |
+| WM | Participate in weekly Ambassador Meetings.| Weekly | Consistency |  15 |
 
 ## Supplementary Task (Choose up to 2 tasks/month)
 
@@ -389,35 +389,39 @@ Title: June 2023 Contribution - {your #discord ID}
 - Amb rank: X
 - Telegram Username: Y
 - Twitter URL: X
-- PHA Wallet Address: Y
+- Astar Wallet Address: Y
 - Departments: [1]/[2]
  
 2. Departments:
  
+· AM:
+- List all completed tasks.
+- [add statistics here]
+
+ 
+· SM:
+- List all completed tasks.
+- [add statistics here]
+
 · CM:
 - List all completed tasks.
 - [add statistics here]
-- Good points
-- Bad points.
-- How to improve your performance for next month.
- 
-· MK:
+
+· WM:
 - List all completed tasks.
 - [add statistics here]
-- Good points
-- Bad points.
-- How to improve your performance for next month.
- 
+
+
 3. Supplementary tasks:
  
-· BH:
+· EC:
 - List completed task/s.
-- Explain your contribution e.g. what bug did you discover.
+- Explain your contribution e.g. What educational content did you create?
 - Explain the importance/value of completing this specific task.
            	
-· TT:
+· EM:
 - List completed task/s.
-- Explain your contribution e.g.what tutorial did you create. 
+- Explain your contribution e.g.what the event did you create. 
 - Explain the importance/value of completing this specific task.
  
 4. Suggested scores: 
