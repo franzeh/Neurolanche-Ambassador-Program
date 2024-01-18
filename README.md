@@ -366,30 +366,25 @@ All ambassadors must select 2/4 of the following departments.
 | MK | Marketing: co-create and execute marketing strategies and host online or offline promotional events. The goals of this department are to increase engagement, community growth, product usage and brand awareness. | Daily | Quality & consistency |  VAR |
 | CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  VAR |
 | CC | Content: supply other departments with a variety of content which excites, educates, converts, or reassures community members. The goal of this department is to  facilitate deeper conversations and connections within and outside of our community. | Daily | Quality & consistency |  VAR |
-| CP | Compute: provide an effective support system for Phala’s core ecosystem team. The goal of this department is to foster and expedite a flourishing environment for Phala’s compute ecosystem.  | Daily | Quality & consistency |  VAR |
 
 ## Supplementary Task (Choose up to 2 tasks/month)
 
 | ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
-| PM | The promoter: promote Neurolancheacross relevant social media platforms. | 5 per month  | Reach & engagement | 10 |
+| PM | The promoter: promote Neurolanche across relevant social media platforms. | 5 per month  | Reach & engagement | 10 |
 | HD | Help Desk: assist our community by answering their questions and sharing helpful resources. | 5 per month  | Speed & effectiveness  | 10 |
 | QC | Quality control: reduce/eliminate inaccurate/misleading content whilst educating our community/amb team. | 5 per month  | Speed & effectiveness  | 10 |
-| RC | The Recruiter: create awareness about our ambassador programme, both within our own community and other relevant communities. Please tell applicants to list you as their referer. | 5 per month  | Quantity & quality | 20 |
 | CC  | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Neurolanche per week. Content has to be ORIGINAL.  | 2 per month  | Quality & Reach  | 10 |
-| TT  | The Tutor: Write a how-to tutorial in your own words.  | 1 per month  | Quality & Reach  | 10 |
-| BH  | The Bughunter: Find bugs on any of Neurolanche platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported.  | 5-10 bugs a month  | Quality  | 10 |
 | EM  | The Event Manager: Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session.  | 1 per month  | Quality & Engagement  | 10 |
-| BD  | The Business Developer: Reach out to projects to build on Neurolanchek. You have to be able to pitch about Neurolanchebefore handing over the project to Marvin or Shelven and Will. Special bonus will be given when it is a native Neurolancheproject (which means they previously have never launched on any other chains).  | 1 per month  | Quality & Success  | 10 |
+| BD  | The Business Developer: Reach out to projects to build on Neurolanchek. You have to be able to pitch about Neurolanche before handing over the project to Leo or Defiguy.  | 1 per month  | Quality & Success  | 10 |
 | ART  | The Artist: This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use.  | 1 per month  | Quality  | 10 |
-| DEV  | The Developer: Development work and coding. Please reach out to us before proceeding with the task.  | TBD  | TBD  | TBD |
 
 > For any other types of contribution that is not listed above, please reach out to the team.
 #### Please submit your contribution by creating an issue on this repository latest by the 5th day of the following month. Any late submission will not be accepted.
 _Report Format Example_
 
 ```
-Title: June 2022 Contribution - {your #discord ID}
+Title: June 2023 Contribution - {your #discord ID}
  
 1. Personal info:
 
