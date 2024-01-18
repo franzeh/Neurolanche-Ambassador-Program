@@ -263,7 +263,24 @@ The Neurolanche Head Ambassador at the highest level serves as the linchpin conn
      - Facilitate cross-functional communication to optimize collective efforts.
      - Uphold Neurolanche's values and ethos in all interactions and initiatives.
 
+   6.3. Reward Structure and Budget Allocation:
 
+Reward system:
+
+- Monthly, consistently, 4000 ASTR + 1000 NEROX tokens for each head Ambassador.
+- A bonus of 50,000 ASTR (approximately $10,000) for ambassadors who successfully complete all tasks after fundraising and ICO.
+- During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code.
+- Bonus for each milestone with the launch of DApp Staking v3. For example:
+    
+    When we reach 50 million ASTR: x ASTR
+    When we reach 75 million ASTR: x ASTR
+    When we reach 100 million ASTR: x ASTR
+    When we reach 125 million ASTR: x ASTR
+    When we reach 150 million ASTR: x ASTR
+    When we reach 175 million ASTR: x ASTR
+    When we reach 200 million ASTR: x ASTR
+    
+   
 4 - Tasks:
 
 For this specific moment, with the upcoming launch in the next 2 months of important parts of our products like Firolauss and the token of our ecosystem $NEROX, we will need a task force from our ambassadors.
